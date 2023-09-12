@@ -15,7 +15,6 @@ function addTask(){
     }
     inputBox.value = "";
     saveData();
-
 }
 
 listContainer.addEventListener("click", function(e){
@@ -36,3 +35,19 @@ function showTask(){
     listContainer.innerHTML = localStorage.getItem("data");
 }
 showTask();
+
+const searchBox = document.getElementById("search-box");
+
+searchBox.addEventListener("input", function() {
+    const searchText = searchBox.value.toLowerCase();
+    const allTasks = listContainer.querySelectorAll("li");
+
+    allTasks.forEach(function(task) {
+        const taskText = task.innerText.toLowerCase();
+        if (taskText.includes(searchText)) {
+            task.style.display = "block"; 
+        } else {
+            task.style.display = "none"; 
+        }
+    });
+});

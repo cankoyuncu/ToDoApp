@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Calibri', sans-serif;
     box-sizing: border-box;
 }
 .container{
@@ -15,17 +15,17 @@
     max-width: 540px;
     background: #fff;
     margin: 100px auto 20px;
-    padding: 40px 30px ;
+    padding: 40px 40px ;
     border-radius: 10px;
 }
 .todo-app h2{
     color: #002765;
     display: flex;
     align-items: center;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 .todo-app h2 img{
-    width: 30px;
+    width: 60px;
     margin-left: 10px;
 }
 .row{
@@ -53,6 +53,14 @@ button{
     font-size: 16px;
     cursor: pointer;
     border-radius: 40px;    
+}
+.search-box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #929292;
+    border-radius: 30px;
+    margin-bottom: 20px;
 }
 ul li{
     list-style: none;
@@ -95,5 +103,5 @@ ul li span{
     border-radius: 50%;
 }
 ul li span:hover{
-    background: #edeef0;
+    background: #ff5945;
 }

@@ -1,4 +1,4 @@
-<img width="1676" alt="Screenshot 2025-03-04 at 16 10 26" src="https://github.com/user-attachments/assets/d3f791f4-743e-4207-a2c0-f479a2780be8" /># ToDoApp (Türkçe)
+# ToDoApp (Türkçe)
 
 HTML, CSS ve JavaScript ile oluşturulmuş basit, şık ve işlevsel bir Yapılacaklar Listesi web uygulaması.
 

@@ -1,4 +1,4 @@
-# ToDoApp (Türkçe)
+<img width="1676" alt="Screenshot 2025-03-04 at 16 10 26" src="https://github.com/user-attachments/assets/d3f791f4-743e-4207-a2c0-f479a2780be8" /># ToDoApp (Türkçe)
 
 HTML, CSS ve JavaScript ile oluşturulmuş basit, şık ve işlevsel bir Yapılacaklar Listesi web uygulaması.
 
@@ -44,7 +44,8 @@ HTML, CSS ve JavaScript ile oluşturulmuş basit, şık ve işlevsel bir Yapıla
 
 ## Ekran Görüntüleri
 
-![ToDoApp Arayüzü](images/todo.png)
+<img width="1676" alt="todo" src="https://github.com/user-attachments/assets/24edbd57-47d4-4f1f-b858-217cd3c275f5" />
+
 
 ## Kurulum
 
@@ -113,7 +114,7 @@ A simple, elegant and functional To-Do List web application built with HTML, CSS
 
 ## Screenshots
 
-![ToDoApp Interface](images/todo.png)
+<img width="1676" alt="todo" src="https://github.com/user-attachments/assets/24edbd57-47d4-4f1f-b858-217cd3c275f5" />
 
 ## Installation
 
